@@ -9,3 +9,7 @@ p {
 #s1 {
 	font-family: fantasy;
 }
+
+#s2 {
+	border: dashed;
+}
